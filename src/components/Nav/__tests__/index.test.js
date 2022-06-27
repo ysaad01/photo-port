@@ -6,7 +6,7 @@
 
 // afterEach(cleanup);
 
-// describe("Nav component", () => {
+// describe("Nav component renders", () => {
 //   it("renders", () => {
 //     render(<Nav />);
 //   });
